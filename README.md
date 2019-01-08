@@ -4,3 +4,4 @@ Personal Samples:
  2. networking.py is a python script part of a larger architecture. It scraps data from several sources.
  3. hw5.py is a python script that solves a Statistics assignment given to me in class.
 Academic Samples: Unfortunately posting academic samples violates the honor code. 
+ 4. Neural Net Picture: This is a picture of some of my neural net code for real world regression problems.
